@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Running Shoes A",
+    "price": 90,
+    "category": "Shoes",
+    "description": "Comfortable running shoes.",
+    "rating": 4.5
+  },
+  {
+    "name": "Sports Watch",
+    "price": 150,
+    "category": "Watches",
+    "description": "Track your fitness goals.",
+    "rating": 4.0
+  },
+  {
+    "name": "Yoga Mat",
+    "price": 35,
+    "category": "Fitness",
+    "description": "Non-slip yoga mat for all exercises.",
+    "rating": 4.2
+  },
+  {
+    "name": "Trail Backpack",
+    "price": 120,
+    "category": "Bags",
+    "description": "Durable backpack for hiking and travel.",
+    "rating": 4.7
+  },
+  {
+    "name": "Wireless Earbuds",
+    "price": 80,
+    "category": "Electronics",
+    "description": "High-quality sound and long battery life.",
+    "rating": 4.3
+  },
+  {
+    "name": "Fitness Tracker",
+    "price": 60,
+    "category": "Electronics",
+    "description": "Monitor your health and activity.",
+    "rating": 4.1
+  },
+  {
+    "name": "Basketball Shoes",
+    "price": 110,
+    "category": "Shoes",
+    "description": "Designed for performance on the court.",
+    "rating": 4.6
+  },
+  {
+    "name": "Classic Watch",
+    "price": 200,
+    "category": "Watches",
+    "description": "Elegant design for all occasions.",
+    "rating": 4.8
+  },
+  {
+    "name": "Gym Bag",
+    "price": 45,
+    "category": "Bags",
+    "description": "Spacious and stylish gym bag.",
+    "rating": 4.0
+  },
+  {
+    "name": "Resistance Bands",
+    "price": 25,
+    "category": "Fitness",
+    "description": "Set of 5 resistance bands for workouts.",
+    "rating": 4.4
+  }
+] 
